@@ -1,6 +1,6 @@
 # Home Automation System Using Ardiuno
 
-<img src="img/HOME AUTOMATION SYSTEM.png"> <!-- Add a screenshot or diagram of your project -->
+<img src="img/HOME AUTOMATION SYSTEM.png" style="width:50%;"> <!-- Add a screenshot or diagram of your project -->
 
 ## Project Overview
 This repository contains the code and design files for a home automation system built with Arduino. The system allows users to control various aspects of their home, such as lights, temperature, and security, through an IoT interface. The project is designed to be flexible, scalable, and easy to set up.
