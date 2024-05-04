@@ -1,0 +1,12 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"U3",1," LCD 16 x 2"
+"KEYPAD1",1," Keypad 4x4"
+"R1, R2, R14",3,"1 kΩ Resistor"
+"SERVO1",1,"Positional Micro Servo"
+"D1",1,"Red LED"
+"PIR1",1," PIR Sensor"
+"U6",1," Temperature Sensor [TMP36]"
+"Rpot1",1,"250 kΩ Potentiometer"
+"GAS1",1," Gas Sensor"
+"DIST1",1," Ultrasonic Distance Sensor (4-pin)"
