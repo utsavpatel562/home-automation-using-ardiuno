@@ -1,7 +1,7 @@
 // Project: HOME AUTOMATION SYSTEM
-// Developed By: Aditi Trivedi, Utsav Patel, Smit Patel, Yash Patel
+// Developed By: Utsav Patel, Aditi Trivedi, Smit Patel, Yash Patel
 // Guided By: Prof. Gurleen Kaur
-// Due date: 7th April 2024
+// Submission On: 7th April 2024
 
 
 //Hello Guys
