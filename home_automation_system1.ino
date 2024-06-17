@@ -3,7 +3,6 @@
 // Guided By: Prof. Gurleen Kaur
 // Submission On: 7th April 2024
 
-//Hello Guys
 #include <Servo.h>
 #include <LiquidCrystal.h>
 #include <Keypad.h>
