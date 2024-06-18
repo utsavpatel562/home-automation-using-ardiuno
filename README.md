@@ -1,4 +1,4 @@
-# Home Automation System Using Ardiuno
+# Home Automation System Using Ardiuno by Utsav Patel
 
 <center><img src="img/HOME AUTOMATION SYSTEM.png" style="width:75%; margin:auto;"></center> <!-- Add a screenshot or diagram of your project -->
 
@@ -27,5 +27,5 @@ Ensure you have the following software installed:
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/home-automation-system.git
+   git clone https://github.com/utsavpatel562/home-automation-system.git
 
