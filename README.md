@@ -1,4 +1,4 @@
-# Home Automation System Using Ardiuno by Utsav Patel
+# Home Automation System Using Ardiuno
 
 <center><img src="img/HOME AUTOMATION SYSTEM.png" style="width:75%; margin:auto;"></center> <!-- Add a screenshot or diagram of your project -->
 
